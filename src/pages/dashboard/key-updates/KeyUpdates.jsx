@@ -131,18 +131,6 @@ function KeyUpdates() {
               <div className={styles.body}>
                 <ul>
                   <li>
-                    The application window for ULBs to apply for GFC in quarter
-                    3 and quarter 4 for FY 2022-23 was opened from{" "}
-                    <b>
-                      15<sup>th</sup> Nov 2022 to 30<sup>th</sup> Dec 2022
-                    </b>{" "}
-                    and from{" "}
-                    <b>
-                      16<sup>th</sup> Jan 2023 to 28<sup>th</sup> Feb 2023
-                    </b>{" "}
-                    respectively.
-                  </li>
-                  <li>
                     A total of 3,356 applications from ULBs under GFC were
                     received till{" "}
                     <b>
@@ -155,8 +143,19 @@ function KeyUpdates() {
                     in progress).
                   </li>
                   <li>
-                    {" "}
                     The Field Assessment (also has been Started in 3 States).
+                  </li>
+                  <li>
+                    The application window for ULBs to apply for GFC in quarter
+                    3 and quarter 4 for FY 2022-23 was opened from{" "}
+                    <b>
+                      15<sup>th</sup> Nov 2022 to 30<sup>th</sup> Dec 2022
+                    </b>{" "}
+                    and from{" "}
+                    <b>
+                      16<sup>th</sup> Jan 2023 to 28<sup>th</sup> Feb 2023
+                    </b>{" "}
+                    respectively.
                   </li>
                 </ul>
               </div>

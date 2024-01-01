@@ -15,7 +15,7 @@ import LoginHome from "pages/admin/login/LoginHome";
 import HomePage from "pages/home/HomePage";
 import VisualizeData from "pages/dashboard/visualize-data/VisualizeData";
 import DumpsiteStatus from "pages/dashboard/dumpsite-status/DumpsiteStatus";
-import LandfillStatus from "pages/landfill-status/LandfillStatus";
+import LandfillStatus from "pages/dashboard/landfill-status/LandfillStatus";
 
 const Printable = forwardRef(function (props, ref) {
   return <div ref={ref}>{props.children}</div>;
